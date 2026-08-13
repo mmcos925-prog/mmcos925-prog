@@ -1,16 +1,19 @@
-## Hi there 👋
+# Brandon Coston | Cloud Security
 
-<!--
-**mmcos925-prog/mmcos925-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AWS Certified Cloud Practitioner | Google 
+Cybersecurity Certificate | SAA-C03 In Progress
 
-Here are some ideas to get you started:
+## What I Build
+- IAM least-privilege architectures
+- Secure CI/CD pipelines (GitHub Actions + AWS OIDC)
+- S3 security controls and exposure remediation
+- CloudTrail audit logging and security event investigation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+AWS • EC2 • S3 • IAM • CloudTrail • GuardDuty 
+- VPC • Linux • GitHub Actions • OIDC
+
+## Currently Learning
+AWS Solutions Architect Associate (SAA-C03)
+
+📫 brandon.coston925@gmail.com
