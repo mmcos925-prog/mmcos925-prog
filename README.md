@@ -8,8 +8,10 @@ AWS Certified Cloud Practitioner | Google Cybersecurity Certificate | SAA-C03 In
 - S3 security controls and exposure remediation
 - CloudTrail audit logging and security event investigation
 - Automated Python pipelines and event-driven systems
+- Security-hardened web applications (A security grade)
 
 ## Projects
+- **[brandoncoston.tech](https://brandoncoston.tech)** — Personal portfolio site with A security grade (Netlify + CSP + HSTS + security headers)
 - **[aws-cloud-security-lab](https://github.com/mmcos925-prog/aws-cloud-security-lab)** — IAM, EC2, S3, CloudTrail, OIDC CI/CD
 - **[job-scraper](https://github.com/mmcos925-prog/job-scraper)** — Automated job search pipeline (Python + GitHub Actions + multi-API)
 - **[clip-manager](https://github.com/mmcos925-prog/clip-manager)** — Event-driven file management with tkinter GUI + Discord webhooks
@@ -18,8 +20,14 @@ AWS Certified Cloud Practitioner | Google Cybersecurity Certificate | SAA-C03 In
 ## Tech Stack
 AWS • EC2 • S3 • IAM • CloudTrail • GuardDuty
 VPC • Linux • GitHub Actions • OIDC • Python
+HTML/CSS/JS • Netlify • DNS • SSL/TLS
 
 ## Currently Learning
 AWS Solutions Architect Associate (SAA-C03)
 
+## Certifications
+- AWS Certified Cloud Practitioner
+- Google Cybersecurity Certificate
+
 📫 brandon.coston925@gmail.com
+🌐 brandoncoston.tech
